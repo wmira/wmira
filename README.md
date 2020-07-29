@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="justify">
 ![Me](https://i.imgur.com/nNsqXIW.gif)
-</p>
+
