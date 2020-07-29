@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Me](https://i.imgur.com/nNsqXIW.gif)
-
+<p align="center">
+  <img src="https://i.imgur.com/nNsqXIW.gif" />
+</p>
