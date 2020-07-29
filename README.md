@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/nNsqXIW.gif" />
+  <img src="https://i.imgur.com/KoMa3AG.gif" />
 </p>
