@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wmira/wmira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="justify">
 ![Me](https://i.imgur.com/nNsqXIW.gif)
+</p>
